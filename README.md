@@ -1,6 +1,9 @@
 
 🎮 Catch the Box Game
 
+TO PLAY
+https://joelljoy.github.io/Catch-the-Box-/
+
 📌 Overview
 Catch the Box is a mini web game where players click a moving box to score points before time runs out.
 This project was created to demonstrate:
