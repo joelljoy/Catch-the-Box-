@@ -24,7 +24,7 @@ HTML5 → Structure of the game
 CSS3 → Animations, transitions, transforms, styling
 JavaScript → Game logic and interaction
 
-🎯 How to Play
+🎯 How to Play:
 Click Start Game.
 A box will appear and move randomly.
 Click the box to score points.
